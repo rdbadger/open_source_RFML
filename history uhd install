@@ -1,0 +1,574 @@
+ 1110  jupyter-notebook
+ 1111  python3 RF3_pytorch.py
+ 1112  python3 RFDataset.py
+ 1113  python3 dataloader.py
+ 1114  python3 dataLoader.py
+ 1115  python3 load_pic_v2_2.py
+ 1116  spyder3
+ 1117  python3 RF3_pytorch.py
+
+ 1219  pwd
+ 1220  sudo nautilus
+ 1221  jupyter-notebook
+ 1222  jupyter-notebook
+ 1223  sudo nautilus
+ 1224  watch -n .5 nvidia-smi
+ 1225  pwd
+ 1226  jupyter-notebook
+ 1227  hardinfo
+ 1228  sudo apt install hardinfo
+ 1229  hardinfo
+ 1230  sudo nautilus
+ 1231  watch -n .5 nvidia-smi
+ 1232  watch -n .5 sensors
+ 1233  sudo nautilus
+ 1234  jupyter-notebook
+ 1235  watch -n .5 sensors
+ 1236  watch -n 5 sensors
+ 1237  watch -n 1 nvidia-smi
+ 1238  watch -n 5 nvidia-smi
+ 1239  sudo nautilus
+ 1240  watch -n .5 sensors
+ 1241  watch -n 5 nvidia-smi
+ 1242  jupyter-notebook
+ 1243  source ~/Desktop/prefix/radio/setup_env.sh
+ 1244  python3 record_425.py
+ 1245  source ~/Desktop/prefix/radio/setup_env.sh
+ 1246  python3 record_425.py
+ 1247  python2 record_425.py
+ 1248  python2 record_433_7.py
+ 1249  python2 record_click
+ 1250  sudo nautilus
+ 1251  sudo nautilus
+ 1252  sudo nautilus
+ 1253  pwd
+ 1254  history
+ 1255  sudo sysctl -w net.core.wmem_max=2500000
+ 1256  sudo nautilus
+ 1257  pwd
+ 1258  source ~/Desktop/prefix/radio/setup_env.sh
+ 1259  python2 record_click.py
+ 1260  cd..
+ 1261  cd 
+ 1262  spyder2
+ 1263  spyder
+ 1264  source ~/Desktop/prefix/radio/setup_env.sh
+ 1265  python2 ./record_click.py
+ 1266  sudo nautilus
+ 1267  git clone git://github.com/EttusResearch/uhd.git
+ 1268  git clone --recursive git://github.com/EttusResearch/uhd.git
+ 1269  pybombs install uhd
+ 1270  install python-apt
+ 1271  ls
+ 1272  cd uhd
+ 1273  mkdir build
+ 1274  cd build
+ 1275  cmake -DENABLE_PYTHON_API=ON -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio2/uhd ../
+ 1276  cd ..
+ 1277  ls
+ 1278  cd ..
+ 1279  pybombs install uhd
+ 1280  cd uhd
+ 1281  pybombs install uhd
+ 1282  python --version
+ 1283  python uhd_file_test.py
+ 1284  python
+ 1285  ls
+ 1286  cd uhd
+ 1287  ls
+ 1288  cd lib
+ 1289  ls
+ 1290  cd ..
+ 1291  pwd
+ 1292  cd uhd
+ 1293  ls
+ 1294  cd lib
+ 1295  ls
+ 1296  cd uhd
+ 1297  ls
+ 1298  cd utils
+ 1299  ls
+ 1300  cd ..
+ 1301  ls
+ 1302  cd ..
+ 1303  cd radio2
+ 1304  ls
+ 1305  cd uhd
+ 1306  cd ..
+ 1307  pwd
+ 1308  ls
+ 1309  git clone https://github.com/EttusResearch/uhd
+ 1310  sudo apt-get update
+ 1311  sudo apt-get -y install git swig cmake doxygen build-essential libboost-all-dev libtool libusb-1.0-0 libusb-1.0-0-dev libudev-dev libncurses5-dev libfftw3-bin libfftw3-dev libfftw3-doc libcppunit-1.14-0 libcppunit-dev libcppunit-doc ncurses-bin cpufrequtils python-numpy python-numpy-doc python-numpy-dbg python-scipy python-docutils qt4-bin-dbg qt4-default qt4-doc libqt4-dev libqt4-dev-bin python-qt4 python-qt4-dbg python-qt4-dev python-qt4-doc python-qt4-doc libqwt6abi1 libfftw3-bin libfftw3-dev libfftw3-doc ncurses-bin libncurses5 libncurses5-dev libncurses5-dbg libfontconfig1-dev libxrender-dev libpulse-dev swig g++ automake autoconf libtool python-dev libfftw3-dev libcppunit-dev libboost-all-dev libusb-dev libusb-1.0-0-dev fort77 libsdl1.2-dev python-wxgtk3.0 git libqt4-dev python-numpy ccache python-opengl libgsl-dev python-cheetah python-mako python-lxml doxygen qt4-default qt4-dev-tools libusb-1.0-0-dev libqwtplot3d-qt5-dev pyqt4-dev-tools python-qwt5-qt4 cmake git wget libxi-dev gtk2-engines-pixbuf r-base-dev python-tk liborc-0.4-0 liborc-0.4-dev libasound2-dev python-gtk2 libzmq3-dev libzmq5 python-requests python-sphinx libcomedi-dev python-zmq libqwt-dev libqwt6abi1 python-six libgps-dev libgps23 gpsd gpsd-clients python-gps python-setuptools
+ 1312  git clone https://github.com/EttusResearch/uhd
+ 1313  sudo apt-get update
+ 1314  sudo apt-get upgrade
+ 1315  git clone https://github.com/EttusResearch/uhd
+ 1316  mkdir uhd
+ 1317  ls
+ 1318  mkdir uhd
+ 1319  exit
+ 1320  pwd
+ 1321  sudo visudo
+ 1322  sudo apt-get update
+ 1323  sudo apt-get upgrade
+ 1324  source ~/Desktop/prefix/radio/setup_env.sh
+ 1325  uhd help
+ 1326  git checkout v3.15.0.0-rc3
+ 1327  git checkout v3.15.0.0
+ 1328  exit
+ 1329  alias python=python3
+ 1330  spyder3
+ 1331  python
+ 1332  ls
+ 1333  chmod +rx uhd_file.py
+ 1334  ls
+ 1335  uhd_file -d 1 -f 434e6
+ 1336  ./uhd_file -d 1 -f 434e6
+ 1337  uhd_file.py -d 1 -f 434e6
+ 1338  python uhd_file.py -d 1 -f 434e6
+ 1339  python uhd_file.py -d 1 -f 434e6 -o test
+ 1340  python uhd_file2.py -d 1 -f 434e6 -o test
+ 1341  ls
+ 1342  chmod +rx uhd_file2.py
+ 1343  ls
+ 1344  python uhd_file2.py -d 1 -f 434e6 -o test
+ 1345  python
+ 1346  python uhd_file2.py -d 1 -f 434e6 -o test
+ 1347  uhd_file2.py -d 1 -f 434e6 -o test
+ 1348  ./uhd_file2.py -d 1 -f 434e6 -o test
+ 1349  python uhd_file2.py -d 1 -f 434e6 -o test
+ 1350  python uhd_file2.py -o test
+ 1351  python uhd_file2.py -f 434e6 -o test
+ 1352  python
+ 1353  python uhd_file2.py -f 434e6 -o test
+ 1354  uhd_usrp_probe
+ 1355  python3 --versionn
+ 1356  python3 --version
+ 1357  alias python=python3
+ 1358  python --version
+ 1359  pybombs install uhd
+ 1360  cd uhd
+ 1361  git tag -l
+ 1362  git checkout v3.15.0.0
+ 1363  git checkout v3.15.0.0-rc3
+ 1364  cd host
+ 1365  mkdir build
+ 1366  cd build
+ 1367  cmake -DENABLE_PYTHON_API=ON -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio2/uhd ../
+ 1368  make
+ 1369  make test
+ 1370  sudo make install
+ 1371  /site-packages/uhd/filters.py
+ 1372  sudo ldconfig
+ 1373  uhd_usrp_probe
+ 1374  python
+ 1375  cd ..
+ 1376  python
+ 1377  spyder3
+ 1378  python
+ 1379  spyder3
+ 1380  ls
+ 1381  cd ..
+ 1382  ls
+ 1383  cd radio
+ 1384  ls
+ 1385  vim setup_env.sh
+ 1386  python
+ 1387  uhd_usrp_probe
+ 1388  python
+ 1389  sudo ldconfig
+ 1390  cd uhd
+ 1391  ls
+ 1392  cd ..
+ 1393  cd radio2
+ 1394  cd uhd
+ 1395  uhd_usrp_probe
+ 1396  sudo ldconfig
+ 1397  python
+ 1398  ls
+ 1399  cd ..
+ 1400  ls
+ 1401  cd uhd
+ 1402  cd ..
+ 1403  cd
+ 1404  cd ~/Desktop/prefix/radio2
+ 1405  cd Desktop
+ 1406  cd prefix/
+ 1407  ls
+ 1408  mkdir radio2
+ 1409  cd radio2
+ 1410  ls
+ 1411  cd ..
+ 1412  cd radio2
+ 1413  mkdir uhd
+ 1414  ls
+ 1415  rmdir uhd
+ 1416  ls
+ 1417  git clone https://github.com/EttusResearch/uhd
+ 1418  ./bash
+ 1419  exec bash
+ 1420  cd uhd
+ 1421  git tag -l
+ 1422  sudo apt-get install libuhd-dev libuhd003 uhd-host
+ 1423  sudo add-apt-repository ppa:ettusresearch/uhd
+ 1424  sudo apt-get update
+ 1425  sudo apt-get install libuhd-dev libuhd003 uhd-host
+ 1426  uhd_usrp_probe
+ 1427  sudo sysctl -w net.core.wmem_max=2500000
+ 1428  uhd_usrp_probe
+ 1429  ls
+ 1430  cd ..
+ 1431  python
+ 1432  alias python=python3
+ 1433  python3
+ 1434  watch -n 5 nvidia-smi
+ 1435  source ~/Desktop/prefix/radio/setup_env.sh
+ 1436  python2 record_429.py
+ 1437  watch -n 5 sensors
+ 1438  alias python=python3
+ 1439  spyder3
+ 1440  jupyter-notebook
+ 1441  source ~/Desktop/prefix/radio/setup_env.sh
+ 1442  python2 RFDataset.py
+ 1443  python2 rf_stft_select.py
+ 1444  python2 rfchop_final.py
+ 1445  python2 ./rfchop_final.py
+ 1446  pip install random2
+ 1447  python2 rfchop_final.py
+ 1448  python3 rfchop_final.py
+ 1449  python3 load_pic_v2_2.py
+ 1450  python3 rf_stft_select.py
+ 1451  python3 load_pic_v2_2.py
+ 1452  python3 chop_v1.py
+ 1453  uhd --version
+ 1454  source ~/Desktop/prefix/radio/setup_env.sh
+ 1455  uhd --version
+ 1456  uhd --help
+ 1457  uhd -h
+ 1458  uhd_usrp_probe
+ 1459  jupyter-notebook
+ 1460  pwd
+ 1461  python --version
+ 1462  alias python=python3
+ 1463  python --version
+ 1464  cd ..
+ 1465  cd radio2
+ 1466  jupyter-notebook
+ 1467  source ~/Desktop/prefix/radio/setup_env.sh
+ 1468  gnuradio-companion 
+ 1469  sudo nautilus
+ 1470  python uhd_file2.py 
+ 1471  history
+ 1472  ls
+ 1473  cd uhd
+ 1474  ls
+ 1475  cd ..
+ 1476  git clone https://github.com/EttusResearch/uhd
+ 1477  cd uhd
+ 1478  git tag -l
+ 1479  git checkout v3.14.1.1
+ 1480  cd host
+ 1481  mkdir build
+ 1482  cd build
+ 1483  cmake -DENABLE_PYTHON_API=ON -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio2/uhd ../
+ 1484  make
+ 1485  make test
+ 1486  make install
+ 1487  sudo ldconfig
+ 1488  export LD_LIBRARY_PATH=/home/david/Desktop/prefix/radio2/uhd/lib
+ 1489  exit
+ 1490  pwd
+ 1491  uhd_find_devices
+ 1492  uhd_usrp_probe
+ 1493  python --version
+ 1494  python
+ 1495  cd uhd
+ 1496  python
+ 1497  cd ..
+ 1498  alias python=python3
+ 1499  python
+ 1500  cd ..
+ 1501  mkdir radio4
+ 1502  cd radio4
+ 1503  git clone https://github.com/EttusResearch/uhd
+ 1504  alias python=python3
+ 1505  python --version
+ 1506  cd uhd
+ 1507  git tag -l
+ 1508  git checkout v3.15.0.0-rc3
+ 1509  git submodule update
+ 1510  cd host
+ 1511  mkdir build
+ 1512  cd build
+ 1513  cmake -DENABLE_PYTHON_API=ON -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio4/uhd ../
+ 1514  make -j4
+ 1515  make install
+ 1516  ll /bin/sh
+ 1517  exit
+ 1518  uhd_find_devices
+ 1519  alias python=python3
+ 1520  export LD_LIBRARY_PATH=/home/david/Desktop/prefix/radio4/uhd/lib
+ 1521  uhd_find_devices
+ 1522  alias python=python3
+ 1523  uhd_find_devices
+ 1524  sudo ldconfig
+ 1525  uhd_find_devices
+ 1526  ldconfig
+ 1527  sudo ldconfig
+ 1528  cd uhd
+ 1529  ls
+ 1530  uhd_find_devices
+ 1531  cd ..
+ 1532  mkdir radio5
+ 1533  cd radio5
+ 1534  git clone https://github.com/EttusResearch/uhd
+ 1535  cd uhd
+ 1536  git tag -l
+ 1537  python --version
+ 1538  git checkout v3.15.0.0-rc3
+ 1539  git submodule update
+ 1540  cd host
+ 1541  mkdir build
+ 1542  cd build
+ 1543  cmake -DENABLE_PYTHON_API=ON -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 ../
+ 1544  make -j4
+ 1545  exit
+ 1546  alias python=python3
+ 1547  git clone --recursive https://github.com/EttusResearch/uhd
+ 1548  ll /bin/sh
+ 1549  sudo dpkg-reconfigure dash
+ 1550  ll /bin/sh
+ 1551  sudo apt update
+ 1552  sudo apt upgrade -y
+ 1553  sudo apt-get -y install git swig cmake doxygen build-essential libboost-all-dev libtool libusb-1.0-0 libusb-1.0-0-dev libudev-dev libncurses5-dev libfftw3-bin libfftw3-dev libfftw3-doc libcppunit-1.14-0 libcppunit-dev libcppunit-doc ncurses-bin cpufrequtils python-numpy python-numpy-doc python-numpy-dbg python-scipy python-docutils qt4-bin-dbg qt4-default qt4-doc libqt4-dev libqt4-dev-bin python-qt4 python-qt4-dbg python-qt4-dev python-qt4-doc python-qt4-doc libqwt6abi1 libfftw3-bin libfftw3-dev libfftw3-doc ncurses-bin libncurses5 libncurses5-dev libncurses5-dbg libfontconfig1-dev libxrender-dev libpulse-dev swig g++ automake autoconf libtool python-dev libfftw3-dev libcppunit-dev libboost-all-dev libusb-dev libusb-1.0-0-dev fort77 libsdl1.2-dev python-wxgtk3.0 git libqt4-dev python-numpy ccache python-opengl libgsl-dev python-cheetah python-mako python-lxml doxygen qt4-default qt4-dev-tools libusb-1.0-0-dev libqwtplot3d-qt5-dev pyqt4-dev-tools python-qwt5-qt4 cmake git wget libxi-dev gtk2-engines-pixbuf r-base-dev python-tk liborc-0.4-0 liborc-0.4-dev libasound2-dev python-gtk2 libzmq3-dev libzmq5 python-requests python-sphinx libcomedi-dev python-zmq libqwt-dev libqwt6abi1 python-six libgps-dev libgps23 gpsd gpsd-clients python-gps python-setuptools
+ 1554  mkdir -p src
+ 1555  cd src
+ 1556  git clone --recursive https://github.com/EttusResearch/uhd
+ 1557  cd uhd
+ 1558  git tag -l 
+ 1559  git checkout v3.15.0.0-rc3
+ 1560  git submodule update
+ 1561  cd host
+ 1562  mkdir build
+ 1563  cd build
+ 1564  cmake -DENABLE_PYTHON_API=ON -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 ../
+ 1565  make -j4
+ 1566  make test
+ 1567  make install
+ 1568  sudo groupadd usrp
+ 1569  sudo usermod -aG usrp david
+ 1570  sudo usermod -aG usrp $david
+ 1571  sudo sh -c "echo '@usrp\t-\trtprio\t99' >> /etc/security/limits.conf"
+ 1572  sudo ldconfig
+ 1573  export LD_LIBRARY_PATH=/home/david/Desktop/prefix/radio5/lib
+ 1574  uhd_find_devices
+ 1575  ls
+ 1576  cd src
+ 1577  ls
+ 1578  cd uhd
+ 1579  ls
+ 1580  cd ..
+ 1581  cd..
+ 1582  python uhd_file2.py
+ 1583  alias python=python3
+ 1584  mkdir src
+ 1585  cd src
+ 1586  alias python=python3
+ 1587  cd src
+ 1588  git clone --recursive https://github.com/EttusResearch/uhd
+ 1589  cd uhd
+ 1590  git tag -l 
+ 1591  git checkout v3.15.0.0-rc3
+ 1592  git submodule update
+ 1593  cd host
+ 1594  mkdir build
+ 1595  cd build
+ 1596  cmake -DENABLE_PYTHON_API=ON -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 ../
+ 1597  make -j4
+ 1598  make test
+ 1599  make install
+ 1600  cd ..
+ 1601  git clone --recursive https://github.com/gnuradio/gnuradio
+ 1602  cd gnuradio/
+ 1603  git tag -l 
+ 1604  git checkout v3.8.0.0-rc2
+ 1605  git submodule update
+ 1606  mkdir build
+ 1607  cd build
+ 1608  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1609  spyder
+ 1610  python3 rf_stft_v1.py
+ 1611  gnuradio-companion 
+ 1612  source ~/Desktop/prefix/radio/setup_env.sh
+ 1613  gnuradio-companion 
+ 1614  alias python=python3
+ 1615  uhd_usrp_probe
+ 1616  ls
+ 1617  source ~/Desktop/prefix/radio/setup_env.sh
+ 1618  uhd_usrp_probe
+ 1619  source ~/Desktop/prefix/radio/setup_env.sh
+ 1620  uhd_usrp_probe
+ 1621  source /home/david/Desktop/prefix/radio5/setup.env
+ 1622  cd ..
+ 1623  uhd_usrp_probe
+ 1624  source /home/david/Desktop/prefix/radio5/setup.env
+ 1625  gnuradio-companion 
+ 1626  history
+ 1627  sudo sysctl -w net.core.wmem_max=2500000
+ 1628  pwd
+ 1629  touch setup.env
+ 1630  source setup.env
+ 1631  which uhd_usrp_probe
+ 1632  uhd_usrp_probe
+ 1633  alias python=python3
+ 1634  python
+ 1635  which uhd_usrp_probe
+ 1636  clear
+ 1637  watch -n .5 nvidia-smi
+ 1638  pwd
+ 1639  mount -t tmpfs -o size=2048M tmpfs /home/david/Desktop/prefix/radio5/ramdisk
+ 1640  sudo mount -t tmpfs -o size=2048M tmpfs /home/david/Desktop/prefix/radio5/ramdisk
+ 1641  ls
+ 1642  python3 rf_stft_v1.py
+ 1643  python3 chop_v1.py
+ 1644  python3 rf_stft_v1.py
+ 1645  python3 chop_v1.py
+ 1646  python3 rf_stft_v1.py
+ 1647  python3 chop_v1.py
+ 1648  python3 rf_stft_v1.py
+ 1649  python3 chop_v1.py
+ 1650  mkdir /mnt/ramdisk
+ 1651  python3 rf_stft_v1.py
+ 1652  python3 chop_v1.py
+ 1653  python3 rf_stft_v1.py
+ 1654  python3 chop_v1.py
+ 1655  sudo umount /home/david/Desktop/prefix/radio5/ramdisk
+ 1656  mount -t tmpfs -o size=2048M tmpfs /mnt/ramdisk
+ 1657  sudo mount -t tmpfs -o size=2048M tmpfs /mnt/ramdisk
+ 1658  sudo unmount /mnt/ramdisk
+ 1659  sudo umount /mnt/ramdisk
+ 1660  source ~/Desktop/prefix/radio/setup_env.sh
+ 1661  cd /mnt/ramdisk
+ 1662  ls
+ 1663  pwd
+ 1664  uhd_usrp_probe
+ 1665  sudo sysctl -w net.core.wmem_max=2500000
+ 1666  source ~/Desktop/prefix/radio/setup_env.sh
+ 1667  gnuradio-companion 
+ 1668  source setup.env
+ 1669  uhd_usrp_probe
+ 1670  jupyter-notebook
+ 1671  sudo nautilus
+ 1672  source ~/Desktop/prefix/radio/setup_env.sh
+ 1673  gnuradio-companion 
+ 1674  alias python=python3
+ 1675  ./bashrc
+ 1676  ./.bashrc
+ 1677  .bashrc
+ 1678  source ~/.bashrc
+ 1679  uhd_usrp_probe
+ 1680  uhd_find_devices
+ 1681  ls
+ 1682  cd src
+ 1683  ls
+ 1684  cd uhd
+ 1685  uhd_find_devices
+ 1686  ls
+ 1687  cd tools
+ 1688  ls
+ 1689  cd ..
+ 1690  export LD_LIBRARY_PATH=/home/david/Desktop/prefix/radio5/lib
+ 1691  ls
+ 1692  cd lib
+ 1693  ls
+ 1694  uhd_usrp_probe
+ 1695  sudo ldconfig
+ 1696  uhd_usrp_probe
+ 1697  python
+ 1698  cd..
+ 1699  cd ..
+ 1700  ls
+ 1701  ll /bin/sh
+ 1702  sudo apt update
+ 1703  sudo apt upgrade -y
+ 1704  sudo apt-get -y install git swig cmake doxygen build-essential libboost-all-dev libtool libusb-1.0-0 libusb-1.0-0-dev libudev-dev libncurses5-dev libfftw3-bin libfftw3-dev libfftw3-doc libcppunit-1.14-0 libcppunit-dev libcppunit-doc ncurses-bin cpufrequtils python-numpy python-numpy-doc python-numpy-dbg python-scipy python-docutils qt4-bin-dbg qt4-default qt4-doc libqt4-dev libqt4-dev-bin python-qt4 python-qt4-dbg python-qt4-dev python-qt4-doc python-qt4-doc libqwt6abi1 libfftw3-bin libfftw3-dev libfftw3-doc ncurses-bin libncurses5 libncurses5-dev libncurses5-dbg libfontconfig1-dev libxrender-dev libpulse-dev swig g++ automake autoconf libtool python-dev libfftw3-dev libcppunit-dev libboost-all-dev libusb-dev libusb-1.0-0-dev fort77 libsdl1.2-dev python-wxgtk3.0 git libqt4-dev python-numpy ccache python-opengl libgsl-dev python-cheetah python-mako python-lxml doxygen qt4-default qt4-dev-tools libusb-1.0-0-dev libqwtplot3d-qt5-dev pyqt4-dev-tools python-qwt5-qt4 cmake git wget libxi-dev gtk2-engines-pixbuf r-base-dev python-tk liborc-0.4-0 liborc-0.4-dev libasound2-dev python-gtk2 libzmq3-dev libzmq5 python-requests python-sphinx libcomedi-dev python-zmq libqwt-dev libqwt6abi1 python-six libgps-dev libgps23 gpsd gpsd-clients python-gps python-setuptools
+ 1705  mkdir -p src
+ 1706  cd src
+ 1707  git clone --recursive https://github.com/EttusResearch/uhd
+ 1708  cd uhd
+ 1709  git tag -l
+ 1710  git checkout v3.15.0.0-rc3
+ 1711  git submodule update
+ 1712  cd host
+ 1713  mkdir build
+ 1714  cd build
+ 1715  alias python=python3
+ 1716  cmake -DENABLE_PYTHON_API=ON -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 ../
+ 1717  make -j4
+ 1718  make install
+ 1719  cd ..
+ 1720  git clone --recursive https://github.com/gnuradio/gnuradio
+ 1721  cd gnuradio/
+ 1722  git tag -l
+ 1723  git checkout v3.8.0.0-rc2
+ 1724  git submodule update
+ 1725  mkdir build
+ 1726  cd build
+ 1727  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1728  pip3 install click
+ 1729  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1730  pip install click
+ 1731  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1732  source ~/.bashrc
+ 1733  pip3 install click
+ 1734  pip install click
+ 1735  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1736  pip install click-plugins
+ 1737  pip3 install click-plugins
+ 1738  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1739  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so -DQWT_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libqwt.so ../
+ 1740  sudo apt install libqwt-qt5-dev
+ 1741  sudo apt install libqt5opengl5-dev
+ 1742  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1743  sudo apt-get install -y libcodec2-0.7
+ 1744  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1745  make -j4
+ 1746  git tag -l 
+ 1747  git checkout v3.8.0.0
+ 1748  git submodule update
+ 1749  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1750  make -j4
+ 1751  git checkout v3.7.0.0
+ 1752  git tag -l 
+ 1753  git checkout v3.7.9.3
+ 1754  git submodule update
+ 1755  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1756  git checkout v3.8.0.0-rc1
+ 1757  git submodule update
+ 1758  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1759  make -j4
+ 1760  sudo add-apt-repository ppa:gnuradio/gnuradio-releases-3.7
+ 1761  sudo apt-get update
+ 1762  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1763  make -j4
+ 1764  cd ..
+ 1765  git clone --recursive https://github.com/gnuradio/gnuradio
+ 1766  cd gnuradio/
+ 1767  git tag -l 
+ 1768  git checkout v3.7.9.3
+ 1769  git submodule update
+ 1770  cd build
+ 1771  midir build
+ 1772  mkdir build
+ 1773  cd build
+ 1774  cmake -DCMAKE_INSTALL_PREFIX=/home/david/Desktop/prefix/radio5 -DUHD_DIR=/home/david/Desktop/prefix/radio5/lib/cmake/uhd/ -DUHD_INCLUDE_DIRS=/home/david/Desktop/prefix/radio5/include/ -DUHD_LIBRARIES=/home/david/Desktop/prefix/radio5/lib/libuhd.so ../
+ 1775  make -j4
+ 1776  make install
+ 1777  cd ..
+ 1778  gnuradio-companion
+ 1779  ls
+ 1780  which uhd
+ 1781  uhd_usrp_probe
+
+

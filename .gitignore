@@ -1,6 +1,8 @@
 saved/
 data/
+data_temp/
 dataset/
+dataset_temp/
 data_test/
 data_val1/
 data_val2/
@@ -14,6 +16,9 @@ data_val9/
 data_val10/
 data_val11/
 data_val12/
+PTT_hi_pwr/
+sigMF data collect hi pwr PTT/
+sigMF data collect_train_val_test/
 testing_data_1msps/
 testing_data_5msps/
 testing_data_10msps/

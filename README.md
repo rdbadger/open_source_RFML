@@ -1,6 +1,6 @@
 ### Important notes
 
-* The paths in the notebooks need to be similarly followed in order for the **_Class_ RFDataset** to function properly
+* The **paths** in the notebooks need to be similarly followed in order for the **_Class_ RFDataset** to function properly
 
 
 ### Citing this work

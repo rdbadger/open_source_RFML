@@ -1,0 +1,32 @@
+[INFO] [UHD] linux; GNU C++ version 7.5.0; Boost_106501; UHD_3.15.0.0-62-g7a3f1516
+[INFO] [B200] Detected Device: B200
+[INFO] [B200] Operating over USB 3.
+[INFO] [B200] Detecting internal GPSDO.... 
+[INFO] [GPS] Found an internal GPSDO: GPSTCXO , Firmware Rev 0.929a
+[INFO] [B200] Initialize CODEC control...
+[INFO] [B200] Initialize Radio control...
+[INFO] [B200] Performing register loopback test... 
+[INFO] [B200] Register loopback test passed
+[INFO] [B200] Setting master clock rate selection to 'automatic'.
+[INFO] [B200] Asking for clock rate 16.000000 MHz... 
+[INFO] [B200] Actually got clock rate 16.000000 MHz.
+[INFO] [B200] Asking for clock rate 32.000000 MHz... 
+[INFO] [B200] Actually got clock rate 32.000000 MHz.
+[INFO] [MULTI_USRP]     1) catch time transition at pps edge
+[INFO] [MULTI_USRP]     2) set times next pps (synchronously)
+Traceback (most recent call last):
+  File "/home/david/sigMF_ML/gnuradio/record_live.py", line 187, in <module>
+    main()
+  File "/home/david/sigMF_ML/gnuradio/record_live.py", line 170, in main
+    tb = top_block_cls(freq=options.freq, gain=options.gain, samp_rate=options.samp_rate, seconds=options.seconds)
+  File "/home/david/sigMF_ML/gnuradio/record_live.py", line 60, in __init__
+    self.sigmf_usrp_gps_message_source_0 = gr_sigmf.usrp_gps_message_source(args, 1.0)
+  File "/home/david/prefix-3.8/lib/python3/dist-packages/gr_sigmf/__init__.py", line 52, in constructor_interceptor
+    if kwargs.has_key('uhd_args'):
+AttributeError: 'dict' object has no attribute 'has_key'
+
+
+[INFO] [MULTI_USRP]     2) set times next pps (synchronously)
+gr::log :ERROR: sink0 - Failed to open file descriptor for path '"/home/david/Desktop/prefix/radio3/ramdisk/.temp-gpTb9oMMyOvgiQoE-vodeson_test1.sigmf-data"', error was: No such file or directory
+Traceback (most recent call last):
+  File "/home/david/sigMF_ML/gnuradio/record_live.py", line 187, in <module>

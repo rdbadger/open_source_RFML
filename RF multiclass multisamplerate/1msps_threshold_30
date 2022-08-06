@@ -1,0 +1,2043 @@
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+Test iteration =  0
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+Test iteration =  1
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  171
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+Test iteration =  2
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  108 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  108 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+Test iteration =  3
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  1
+tyt =  0 vod =  0 click =  3
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  1
+tyt =  0 vod =  0 click =  3
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  4
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  5
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  7 vod =  0 click =  2
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  7 vod =  0 click =  2
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  6
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  64 click =  1
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  64 click =  1
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  7
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  15 nfm =  0
+tyt =  0 vod =  0 click =  19
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  62
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  15 nfm =  0
+tyt =  0 vod =  0 click =  19
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+Test iteration =  8
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  142
+fft =  9 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+Test iteration =  9
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  104 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  104 noise =  174
+fft =  8 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+Test iteration =  10
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  7 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  11
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  18 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  174
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  12
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  3 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  13
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  64 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  64 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  14
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+Test iteration =  15
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  128 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  128 noise =  167
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+Test iteration =  16
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  172
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  17
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  173
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  18
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  172
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  19
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  1 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  162
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  20
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  169
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+Test iteration =  21
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  122 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  122 noise =  174
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  22
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  105 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  105 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  23
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  122 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  122 noise =  172
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  24
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  61 click =  0
+sado =  0 lora250 =  108 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  61 click =  0
+sado =  0 lora250 =  108 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  25
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  108 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  108 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  26
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  27
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  71 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  71 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  28
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  29
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  6
+tyt =  0 vod =  0 click =  2
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  86
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  1 nfm =  6
+tyt =  0 vod =  0 click =  2
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  30
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  31
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  62 click =  0
+sado =  87 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  62 click =  0
+sado =  87 lora250 =  0 noise =  168
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  32
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  33
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  63 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  63 click =  0
+sado =  0 lora250 =  0 noise =  172
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  34
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  63 vod =  0 click =  15
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  63 vod =  0 click =  15
+sado =  0 lora250 =  0 noise =  171
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/click
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  35
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  64 click =  6
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  64 click =  6
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+Test iteration =  36
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  87
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+Test iteration =  37
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  160 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  160 noise =  87
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+Test iteration =  38
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  10
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  10
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  170
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  39
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  87
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  40
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  19 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  19 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  149
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  41
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  64 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  64 click =  0
+sado =  0 lora250 =  0 noise =  110
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  42
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  61 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  32
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  61 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+Test iteration =  43
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  141 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  141 noise =  87
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+Test iteration =  44
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  87 nfm =  12
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  87 nfm =  12
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  170
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  45
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  87
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  46
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  31 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  31 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  144
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  47
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  0 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  87 nfm =  0
+tyt =  1 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  109
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  48
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  26 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  51
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  26 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  172
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+Test iteration =  49
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  160 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  1 vod =  0 click =  0
+sado =  0 lora250 =  160 noise =  173
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  50
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  88 lora250 =  92 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  88 lora250 =  92 noise =  87
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  51
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  9 vod =  0 click =  0
+sado =  0 lora250 =  161 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  9 vod =  0 click =  0
+sado =  0 lora250 =  161 noise =  166
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  52
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  62 click =  0
+sado =  0 lora250 =  144 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  62 click =  0
+sado =  0 lora250 =  144 noise =  110
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  53
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  2 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  148 noise =  0
+fft =  0 light =  0 ysf =  84
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  2 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  148 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  54
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  8
+tyt =  0 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  8
+tyt =  0 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  55
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  61 nfm =  19
+tyt =  61 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  61 nfm =  19
+tyt =  61 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  56
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  1
+tyt =  0 vod =  62 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  1
+tyt =  1 vod =  62 click =  0
+sado =  0 lora250 =  0 noise =  171
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  57
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  35 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  76
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  35 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  58
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  5 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  5 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  172
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  59
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  62 click =  0
+sado =  132 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  0 vod =  62 click =  0
+sado =  132 lora250 =  0 noise =  111
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  60
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  24 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  134 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  63
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  24 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  134 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  61
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  65 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  87 nfm =  0
+tyt =  65 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  136
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  62
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  2 nfm =  0
+tyt =  73 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  84
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  2 nfm =  0
+tyt =  73 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/gd55
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  63
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  5 nfm =  0
+tyt =  0 vod =  63 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  80
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  5 nfm =  0
+tyt =  0 vod =  63 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+Test iteration =  64
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  168 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  168 noise =  87
+fft =  87 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+Test iteration =  65
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  87
+fft =  87 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  66
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  88 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  88 lora250 =  0 noise =  87
+fft =  7 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  67
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  87
+fft =  87 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  68
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  63 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  63 click =  0
+sado =  0 lora250 =  0 noise =  104
+fft =  2 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  69
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  87
+fft =  1 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+Test iteration =  70
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  167 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  167 noise =  87
+fft =  87 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  71
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  94 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  94 noise =  87
+fft =  4 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  72
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  166 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  166 noise =  87
+fft =  87 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  73
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  63 click =  0
+sado =  0 lora250 =  160 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  63 click =  0
+sado =  0 lora250 =  160 noise =  110
+fft =  1 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  74
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  158 noise =  0
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  158 noise =  87
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  75
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  0 noise =  87
+fft =  6 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  76
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  83 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  83 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  90
+fft =  87 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  77
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  64 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  64 click =  0
+sado =  0 lora250 =  0 noise =  110
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  78
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  10
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  82
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  7 nfm =  10
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  144
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  79
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  88 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  88 lora250 =  0 noise =  87
+fft =  3 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  80
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  64 click =  0
+sado =  88 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  64 click =  0
+sado =  88 lora250 =  0 noise =  110
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  81
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  88 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  88 lora250 =  0 noise =  87
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  82
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  64 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  64 click =  0
+sado =  0 lora250 =  0 noise =  110
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  83
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  81 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  81 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  91
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/light
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  84
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  65 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  65 click =  0
+sado =  0 lora250 =  0 noise =  110
+fft =  0 light =  87 ysf =  87
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+Test iteration =  85
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  162 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  162 noise =  87
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  86
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  103 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  87 lora250 =  103 noise =  87
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  87
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  161 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  0 lora250 =  161 noise =  87
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  88
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  47 click =  0
+sado =  0 lora250 =  136 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  47 click =  0
+sado =  1 lora250 =  136 noise =  109
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  89
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  139 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  139 noise =  87
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  90
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  87
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  91
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  84 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  84 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  92
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  92
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  0 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  87
+tyt =  1 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  109
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  93
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  10
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  81
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  3 nfm =  10
+tyt =  6 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  156
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  94
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  87
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  95
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  61 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  1 vod =  61 click =  0
+sado =  174 lora250 =  0 noise =  109
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  96
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  87
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  97
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  87 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  87 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  109
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  98
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  79 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  79 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  95
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora125
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  99
+----------------- Good match counts --------------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  0 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  87 GD55 =  0 nfm =  0
+tyt =  1 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  109
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+Test iteration =  100
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  88 lora250 =  98 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  0 click =  0
+sado =  88 lora250 =  98 noise =  87
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  101
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  66 vod =  0 click =  0
+sado =  0 lora250 =  170 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  66 vod =  0 click =  0
+sado =  0 lora250 =  170 noise =  110
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  102
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  62 click =  0
+sado =  0 lora250 =  161 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  62 click =  0
+sado =  0 lora250 =  161 noise =  110
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  103
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  0 lora250 =  160 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  1 vod =  0 click =  0
+sado =  0 lora250 =  160 noise =  173
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  104
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  88 lora250 =  98 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  0 click =  0
+sado =  88 lora250 =  98 noise =  87
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  105
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  62 click =  0
+sado =  88 lora250 =  93 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  62 click =  0
+sado =  88 lora250 =  93 noise =  111
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  106
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  88 lora250 =  94 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  0 click =  0
+sado =  88 lora250 =  94 noise =  87
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  107
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  63 click =  0
+sado =  0 lora250 =  160 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  63 click =  0
+sado =  0 lora250 =  160 noise =  109
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  108
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  11 vod =  0 click =  0
+sado =  0 lora250 =  160 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  11 vod =  0 click =  0
+sado =  0 lora250 =  160 noise =  169
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/lora250
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  109
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  63 click =  0
+sado =  0 lora250 =  146 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  63 click =  0
+sado =  0 lora250 =  146 noise =  110
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+Test iteration =  110
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  62 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  62 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  135
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  111
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  62 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  0 vod =  62 click =  0
+sado =  174 lora250 =  0 noise =  114
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  112
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  8
+tyt =  0 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  84
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  8
+tyt =  0 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  174
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  113
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  84 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  87
+tyt =  84 vod =  61 click =  0
+sado =  0 lora250 =  0 noise =  121
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  114
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  46
+tyt =  41 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  46
+tyt =  41 vod =  0 click =  0
+sado =  0 lora250 =  0 noise =  174
+fft =  87 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/nfm
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  115
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  9
+tyt =  0 vod =  60 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  86
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  9
+tyt =  4 vod =  60 click =  0
+sado =  0 lora250 =  0 noise =  159
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+Test iteration =  116
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  62 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  87 vod =  62 click =  0
+sado =  174 lora250 =  0 noise =  110
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  117
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  47 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  47 vod =  0 click =  0
+sado =  174 lora250 =  0 noise =  143
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/sado
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  118
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  64 click =  0
+sado =  134 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  0 vod =  64 click =  0
+sado =  134 lora250 =  0 noise =  110
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+***************************** Start of combined file test *************************************
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/tyt
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/vod
+individual folder =  /media/david/Elements/sigMF_ML/RF/RF_class/testing_data_1msps_compact/ysf
+Test iteration =  119
+----------------- Good match counts --------------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  85 vod =  63 click =  0
+sado =  0 lora250 =  0 noise =  0
+fft =  0 light =  0 ysf =  87
+---------------------------------------------------
+----------------- All predictions counts ----------------
+lora125 =  0 GD55 =  0 nfm =  0
+tyt =  85 vod =  63 click =  0
+sado =  0 lora250 =  0 noise =  116
+fft =  0 light =  0 ysf =  0
+---------------------------------------------------
+*************************************************************************
+Total test set percent count = 52.50%
+*************************************************************************

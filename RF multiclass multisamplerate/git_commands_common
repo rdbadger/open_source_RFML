@@ -1,0 +1,21 @@
+git add -A
+git status -s
+git commit -m "20201001 REV2"
+git push
+
+git status -s; git add -A; git status -s; git commit -m "20201001 REV3"; git push
+git reset --hard <hash>
+git rm -r --cached <folder_to_remove_from_repository>
+
+
+# to cancel a git add that may have tried to upload gigs of files, do this:
+
+git reset
+
+git reset --soft HEAD~1
+
+git commit -am 'git cache cleared'
+git rm -f --cached 'RF_MULTICLASS_v1_rev14\ 4CH\ ResNet-MULE\ GPU1-combo\ testing.ipynb'
+git filter-branch --index-filter 'git rm -rf --cached --ignore-unmatch RF_MULTICLASS_v1_rev14\ 4CH\ ResNet-MULE\ GPU1-combo\ testing.ipynb' HEAD
+
+

@@ -1,0 +1,11 @@
+find /home/david/sigMF_ML/RF/RF_class/data_val3/UHF_clickndig_fob1_val_1msps/chopped-data-224-224/ -maxdepth 1 -type f -name "*.pickle" -print0 | \
+        head -z -n 8200 | xargs -0 rm
+
+
+find /home/david/sigMF_ML/RF/RF_class/data_val3/UHF_clickndig_fob1_val_1msps/chopped-data-224-224/ -maxdepth 1 -type f -name "*.pickle" -print0 | \
+    sort -z -R | head -z -n 8200 | xargs -0 rm
+
+find /home/david/sigMF_ML/RF/RF_class/data_val12/ysf_25msps_val10/chopped-data-224-224/ -maxdepth 1 -type f -name "*.pickle" -print0 | \
+    sort -z -R | head -z -n 8000 | xargs -0 rm
+
+find /home/david/sigMF_ML/RF/RF_class/val_1msps/YSF4_1msps_val/chopped-data-224-224/ -maxdepth 1 -type f -name "*.pickle" -print0 | head -z -n 8000 | xargs -0 rm

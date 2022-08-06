@@ -1,0 +1,112 @@
+Totals:
+1msps training = 162.2k
+25msps total = 200k
+validation total = 96k
+
+Training:
+1msps:
+YSF 1msps = 10k
+click 1msps = 10.2k
+GD55 1msps = 10.2k
+sado 1msps = 10.2k
+vodeson 1msps = 10.2k
+fft centerbin 1msps = 10.2k
+NFM 1msps = 10.2k
+TYT 1msps = 10.2
+lora125 1msps = 10.2k
+lora250 1msps = 10.2k
+light 1msps = 10.2k
+
+noise 1msps = 10.2k
+YSF noise 1msps = 10k
+click noise 1msps = 10k
+lora125 1msps noise = 10k
+lora250 1msps noise = 10k
+
+
+25msps:
+click 25msps = 10k
+fft centerbin 25msps = 10k
+GD55 25msps = 10k
+NFM 25msps = 10k
+TYT 25msps = 10k
+YSF 25msps = 10k
+vodeson 25msps = 10k
+sado 25msps = 10k
+lora125 25msps = 10k
+lora250 25msps = 10k
+light 25msps = 10k
+
+noise 25msps = 10k
+NFM 25msps noise = 20k
+GD55 25msps noise = 20k
+click 25msps noise = 20k
+lora125 25msps noise = 20k
+
+
+Validation 1msps:
+
+YSF 1msps = 2k
+click 1msps = 2k
+GD55 1msps = 2k
+sado 1msps = 2k
+vodeson 1msps = 2k
+fft centerbin 1msps = 2k
+noise 1msps = 2k
+NFM 1msps = 2k
+TYT 1msps = 2k
+lora125 1msps = 2k
+lora250 1msps = 2k
+light 1msps = 2k
+
+Validation 5msps:
+
+YSF 5msps = 2k
+click 5msps = 2k
+GD55 5msps = 2k
+sado 5msps = 2k
+vodeson 5msps = 2k
+fft centerbin 5msps = 2k
+noise 5msps = 2k
+NFM 5msps = 2k
+TYT 5msps = 2k
+lora125 5msps = 2k
+lora250 5msps = 2k
+light 5msps = 2k
+
+
+Validation 10msps:
+
+YSF 10msps = 2k
+click 10msps = 2k
+GD55 10msps = 2k
+sado 10msps = 2k
+vodeson 10msps = 2k
+fft centerbin 10msps = 2k
+noise 10msps = 2k
+NFM 10msps = 2k
+TYT 10msps = 2k
+lora125 10msps = 2k
+lora250 10msps = 2k
+light 10msps = 2k
+
+Validation 10msps:
+
+YSF 25msps = 2k
+click 25msps = 2k
+GD55 25msps = 2k
+sado 25msps = 2k
+vodeson 25msps = 2k
+fft centerbin 25msps = 2k
+noise 25msps = 2k
+NFM 25msps = 2k
+TYT 25msps = 2k
+lora125 25msps = 2k
+lora250 25msps = 2k
+light 25msps = 2k
+
+
+
+
+
+
